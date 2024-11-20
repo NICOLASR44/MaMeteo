@@ -16,6 +16,8 @@ export default class About extends React.Component {
   }
 }
 
+//test
+
 const style = StyleSheet.create({
   view: {
     margin: 20,
